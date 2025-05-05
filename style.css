@@ -2,10 +2,10 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #00162E;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --cor-de-fundo: #170B3B;
+    --fundo-senha: #9A2EFE;
+    --fundo-texto: #8258FA;
+    --borda: #BE81F7;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -145,7 +145,7 @@ label {
     width: 100%;
 }
 
-.parametro-senha-textos {
+.parametro-senha-textos {0075FF
     display: flex;
     justify-content: space-between;
 }
